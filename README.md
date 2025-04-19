@@ -1,7 +1,7 @@
 # IQ Puzzler Pro Solver
 
-By `Traïan Beaujard` and `Antoine Perrin`
-An AI-powered solver for the IQ Puzzler Pro game using Knuth's Algorithm X with optimizations. This project was developed as part of IA41 at UTBM.
+- By `Traïan Beaujard` and `Antoine Perrin`
+- An AI-powered solver for the IQ Puzzler Pro game using Knuth's Algorithm X with optimizations. This project was developed as part of IA41 at UTBM.
 
 ## Description
 The solver can:
